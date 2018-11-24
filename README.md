@@ -1,0 +1,2 @@
+# HitTestDemo
+测试HitTest出现了重复查询的现象不知如何解释
